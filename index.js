@@ -7,5 +7,5 @@ function happyHolidaysTo(Pavel){
 }
 
 function happyCustomHolidayTo(Hanukkah, Pavel){
-  
+  return `Happy ${Hanukkah}, ${Pavel}!`
 }
